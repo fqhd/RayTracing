@@ -1,4 +1,3 @@
 g++ main.cpp -o out
-./out
+./out > image.ppm
 rm out
-
